@@ -1,3 +1,6 @@
+System Design --> How do we build eh whole system.
+Design Pattern --> How do we solve a recurring problem in the code/system.
+
 The Factory Design Pattern is a creational design pattern used to create objects without exposing the creation logic to the client.
 
 👉 Instead of using new (or struct initialization) directly,\

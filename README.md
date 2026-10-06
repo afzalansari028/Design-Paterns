@@ -31,3 +31,29 @@
       System should support 1 million users.
       System should remain available even if one server crashes.
       
+Load Balancer: 
+
+    -redirect the traffic
+    -able to checkk the health of pods.
+    
+CDN - Content Delivery Network:
+
+    A CDN is a world-wide network of servers distributed across different geographic locations that delivers content to users from a server which closer to them,
+    so that data can be delivered faster.
+
+
+      
+
+       
+
+
+
+
+         
+             
+            
+            
+
+             
+        
+

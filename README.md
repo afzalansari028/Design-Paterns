@@ -38,19 +38,22 @@ Load Balancer:
     
 CDN - Content Delivery Network:
 
-    A CDN is a world-wide network of servers distributed across different geographic locations that delivers content to users from a server which closer to them,
-    so that data can be delivered faster.
+    A CDN is a world-wide network of servers distributed across different geographic locations that delivers content to users
+    from a server which closer to them, so that data can be delivered faster.
 
 
-      
+Forword Proxy:
 
-       
+    A forward proxy sits between the client and the internet/server.
+    client sends the request to the proxy, and then the proxy sends it to the destination.
+    The destination server sees the proxy's IP, rather than directly seeing the client's IP in the network connection.  
 
-
-
-
-         
-             
+    Example COmpany network uses proxy:
+     - Control which websites employees can access
+     - Block certain websites
+     - filter traffic according to company policy
+     - Apply security rules  
+     - Cache some content      
             
             
 

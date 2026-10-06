@@ -33,15 +33,13 @@
       
 Load Balancer: 
 
-    -redirect the traffic
-    -able to checkk the health of pods.
+    - redirect the traffic
+    - able to checkk the health of pods.
     
 CDN - Content Delivery Network:
 
     A CDN is a world-wide network of servers distributed across different geographic locations that delivers content to users
     from a server which closer to them, so that data can be delivered faster.
-
-
 Forword Proxy:
 
     A forward proxy sits between the client and the internet/server.
@@ -54,7 +52,9 @@ Forword Proxy:
      - filter traffic according to company policy
      - Apply security rules  
      - Cache some content      
-            
+
+Reverse Proxy:
+
             
 
              

@@ -55,8 +55,14 @@ Forword Proxy:
 
 Reverse Proxy:
 
-            
+    A reverse proxy is a server that sits in front of one or more backend servers and receives requests from users on behalf of servers.
 
+    - Hide backend servers
+    - Route requests
+    - Caching
+    - Authentication
+    - Load balancing
+    
              
         
 

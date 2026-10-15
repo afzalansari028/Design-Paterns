@@ -62,7 +62,11 @@ Reverse Proxy:
     - Caching
     - Authentication
     - Load balancing
-    
+
+Caching:
+
+    caching means temporarily storing frequently used data so that we can retrieve it faster instead of fetching it from the original source(DB) every time.
+    Redis: Redis is a software program that ues RAM to store/retrive data, that's why it faster.
              
         
 

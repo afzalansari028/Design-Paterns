@@ -74,6 +74,7 @@ Caching:
 
      Responsibility: Routing, Authentication, Rate limiting ....
                   
-             
+Data Partitioning:
+
         
 
